@@ -1,0 +1,1 @@
+This section is dedicated to features of the world that can't be reasonably placed in any other section of the Encyclopedia. In here, you'll find a lot of generally random files.
