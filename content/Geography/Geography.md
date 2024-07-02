@@ -1,0 +1,1 @@
+This section will cover everything regarding the geography of Kandoria. This includes macro-level topics such as continents, countries, kingdoms, and cities, as well as some slightly off-topic information, usually regarding things like the cultures of the locations discussed.
