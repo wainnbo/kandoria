@@ -2,6 +2,7 @@ This section will cover everything regarding the geography of Kandoria. This inc
 
 The lists in this section are different than the others. In this section, lists will be hierarchical, starting with continents, and getting smaller with each subsection. The order from highest to lowest hierarchy is continents, countries, kingdoms, and cities
 
+---
 # Continents
 - ## [[Ciry]]
 - ## [[Eralinn]]

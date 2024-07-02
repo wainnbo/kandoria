@@ -1,5 +1,6 @@
 In this section you can find anything pertaining to the religions of Kandoria. Anything from the ever-popular Originism, all the way down to the smallest unknown cults, if it has religious context, it can be found here.
 
+---
 ## Artifacts
 - ### [[The Epic of Creation]]
 ## Events
