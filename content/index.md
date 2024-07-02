@@ -10,7 +10,7 @@ Also, I hope to relearn a lot of web programming stuff so I can make the place l
 Below are some links to places you can quickly jump to for information on broad subjects. No clue where to start? I'd recommend checking out the
 ### [[Beginner's Guide to Kandoria]]
 
-For some introductory level information. 
+for some introductory level information. 
 
 Already know what you're doing and just need some quick links? Check the list below:
 - ### [[Geography]]
