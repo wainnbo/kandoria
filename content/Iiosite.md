@@ -1,5 +1,5 @@
-### *"Iiosite... The flesh of the Gods. With even a pebble, I control the strength of the cosmos at my fingertips."
-### —[[Krillis, the Silent Sword]]*
+## *"Iiosite... The flesh of the Gods. With even a pebble, I control the strength of the cosmos at my fingertips."
+## —[[Krillis, the Silent Sword]]*
 ![[iiosite.png]]
 
 Iiosite is a rare and precious mineral found throughout the world of Kandoria. It is the crystalized flesh of dead gods killed during the [[Birth of Chaos]].

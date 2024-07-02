@@ -1,5 +1,5 @@
-### *"His luminous form stood before me with the size of one hundred men. After a pause, I choked out my reply through lips agape with wonder. 'Why have it written for mortal eyes?' With a smirk, He responded. 'Our story must be told.'"*
-### *—Jarral, the Original Cleric*
+## *"His luminous form stood before me with the size of one hundred men. After a pause, I choked out my reply through lips agape with wonder. 'Why have it written for mortal eyes?' With a smirk, He responded. 'Our story must be told.'"*
+## *—Jarral, the Original Cleric*
 
 The Epic of Creation is the most famous textualization of [[Originism]] religion of Kandoria. Penned by [[Jarral, the Original Cleric]], it's written as a dictation of [[Mikkeron, the Progenitor God|Mikkeron's]] firsthand account of celestial, religious, and historical events spanning from pre-[[Birth of Chaos]] to the founding of the [[Alagar|Alagarian]] town of [[Haereth]]. 
 
