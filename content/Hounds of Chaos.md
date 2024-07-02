@@ -1,5 +1,5 @@
-#### *"The snarling beasts laid their maniacal eyes on the Lord Mikkeron and his woolly companion. With gnarled teeth they pounced at the Progenitor God and sank their wicked teeth into His golden throat."*
-#### *—[[The Epic of Creation|The Call of Chaos 31:4]]*
+### *"The snarling beasts laid their maniacal eyes on the Lord Mikkeron and his woolly companion. With gnarled teeth they pounced at the Progenitor God and sank their wicked teeth into His golden throat."*
+### *—[[The Epic of Creation|The Call of Chaos 31:4]]*
 
 The Hounds of Chaos are celestial beings formed of pure excess chaos leftover by the [[Birth of Chaos]]. In the early years of Mortal life on Kandoria, they arrived on the planet intending to consume it. Wanting to avoid a confrontation with the forces of chaos, and without other options, [[Mikkeron, the Progenitor God|Mikkeron]] made [[The Sacrifice]], feeding [[Beau, the Blessed]] to the hounds. This seemed to appease the unruly beasts, so they retreated back into the cosmos and haven't been heard from since.
 
