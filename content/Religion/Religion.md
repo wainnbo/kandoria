@@ -8,6 +8,7 @@ In this section you can find anything pertaining to the religions of Kandoria. A
 - ### [[Birth of Chaos]]
 - ### [[The Sacrifice]]
 ## Gods & Goddesses
+- ### [[Maveline, Goddess of the Dead]]
 - ### [[Mikkeron, the Progenitor God]]
 ## Important Figures
 - ### [[Beau, the Blessed]]
@@ -16,9 +17,11 @@ In this section you can find anything pertaining to the religions of Kandoria. A
 - ### [[Lost Gods]]
 - ### [[Scydias, Amalgam Lord]]
 ## Religious Groups
+- ### [[Ivor March]]
 - ### [[Originism]]
 - ### [[Persistents]]
 ## Religious Practices
+- ### [[Idol God]]
 ## Religious Texts
 - ### [[All the Days Left]]
 - ### [[The Epic of Creation]]
