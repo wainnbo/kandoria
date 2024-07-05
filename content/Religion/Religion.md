@@ -2,7 +2,7 @@ In this section you can find anything pertaining to the religions of Kandoria. A
 
 ---
 ## Artifacts
-- ### [[The Epic of Creation]]
+
 ## Events
 - ### [[Alagarian Crusade]]
 - ### [[Birth of Chaos]]
@@ -21,3 +21,4 @@ In this section you can find anything pertaining to the religions of Kandoria. A
 ## Religious Practices
 ## Religious Texts
 - ### [[All the Days Left]]
+- ### [[The Epic of Creation]]
