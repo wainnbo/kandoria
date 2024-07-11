@@ -1,0 +1,1 @@
+The Redlocke Family are a famous noble house, mainly located in [[Cairoux]], the largest city in [[Fjorice]] 

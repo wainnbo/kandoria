@@ -4,3 +4,4 @@ This section covers different aspects of Kandoria's history. The scope ranges fr
 ## Important Historical Figures
 - ### [[Krillis, the Silent Sword]]
 - ### [[Raz'Ulthaad, the Lost Lich]]
+- ### [[The Redlocke Family|Redlocke Family]]
