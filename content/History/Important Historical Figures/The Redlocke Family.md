@@ -1,4 +1,4 @@
-The Redlocke Family are a famous noble house, mainly located in [[Cairoux]], the largest city in [[Fijor]]. 
+The Redlocke Family are a famous noble house, mainly located in [[Clairoux]], the largest city in [[Fijor]]. 
 
 The Redlockes are notable for many reasons, but they're perhaps most known for their naturally flame-colored hair, supposedly a generations-old genetic mutation unique to the family. It's assumed that the flame hair genetics are highly dominant, as it's incredibly hard to remove, even from children deep into the history of the family.
 

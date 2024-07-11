@@ -7,7 +7,7 @@ The lists in this section are different than the others. In this section, lists 
 - ## [[Ciry]]
 - ## [[Eralinn]]
 	- ### [[Fijor]]
-		- #### [[Cairoux]]
+		- #### [[Clairoux]]
 - ## [[Gherra]]
 - ## [[Masas]]
 - ## [[Odessa]]
