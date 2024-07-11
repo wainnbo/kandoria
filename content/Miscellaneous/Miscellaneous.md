@@ -4,3 +4,4 @@ This section is dedicated to features of the world that can't be reasonably plac
 ## Miscellaneous Pages
 - ### [[Beginner's Guide to Kandoria]]
 - ### [[Iiosite]]
+- ### [[Noteworthy Quirks]]
