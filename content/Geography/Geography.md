@@ -9,7 +9,7 @@ The lists in this section are different than the others. In this section, lists 
 	- ### [[Fijor]]
 		- #### [[Clairoux]]
 - ## [[Gherra]]
-- ## [[Masas]]
+- ## [[Lirthos]]
 - ## [[Odessa]]
 	- ### [[Alagar]]
 		- #### [[Haereth]]
