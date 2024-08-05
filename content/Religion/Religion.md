@@ -8,6 +8,7 @@ In this section you can find anything pertaining to the religions of Kandoria. A
 - ### [[Birth of Chaos]]
 - ### [[The Sacrifice]]
 ## Gods & Goddesses
+- ### [[Kosmé, Goddess of the World]]
 - ### [[Maveline, Goddess of the Dead]]
 - ### [[Mikkeron, the Progenitor God]]
 ## Important Figures

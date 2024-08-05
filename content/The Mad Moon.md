@@ -1,0 +1,12 @@
+![[madmoon.png]]
+The Mad Moon is a lunar chaotic mass that revolves around [[Kandoria]] and causes unpredictable celestial catastrophes. When in direct view of it, chaotic powers within the Mad Moon make nearly all forms of animal life extremely hostile and unpredictable. This almost always causes widespread death and destruction in the area of effect. 
+## Frequency
+Fortunately, the Mad Moon is generally as infrequent as it is random. Most of the time, Mad Moon sightings are decades, sometimes centuries apart from each other. However, this is far from a guarantee. Due to the chaotic forces within the object, it moves against the known forces of the cosmos, meaning it can speed up or slow down to the extremes. It moves in unpredictable patterns around Kandoria and can sometimes end up closer or further away from the planet than others. Furthermore, though rare, the Mad Moon has been known to affect the same place twice within as little as the same year, more than likely decimating populations in the process. 
+## Detection
+Though the Mad Moon is extremely unpredictable, it can often be detected with some time in advance before an event occurs. Many jurisdictions have round the clock astronomers to detect the Mad Moon with as much early time as possible.
+## Mitigation
+Knowledge of the Mad Moon is little, but fortunately widespread, so basically all populations know of its effects and how best to mitigate them. Most commonly, mitigation involves staying indoors with all doors and windows locked shut, as this both prevents direct line of sight with the moon, and prevents easy entry for those affected by it. 
+## Effects
+The effects of the Mad Moon can sometimes change but the majority of the time they are, or are related to, instant and irrational hostility. Creatures subjected to the Mad Moon usually lose any sense of pain, causing victims to shrug off the most gruesome of injuries. Anything that would normally kill someone will still kill them if they're affected by the Mad Moon (for example, blood loss will still kill). Victims of the Moon's effect usually lose the ability to speak, but a high enough Wisdom will allow them to retain it. Victims of the Mad Moon can easily be detected by their eyes, which completey turn a bright blood red.
+Those unfortunate enough to be affected by the Mad Moon, but fortunate enough to not be killed, can be expected to fully recover from its effects once out of its line of sight for as little as a couple of hours.
+## Notable Mad Moon events across Kandoria

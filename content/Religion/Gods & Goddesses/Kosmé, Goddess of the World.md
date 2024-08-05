@@ -1,0 +1,1 @@
+Kosmé is the goddess of the world, creation, and astronomy. She was the first born child of [[Mikkeron]]. 
