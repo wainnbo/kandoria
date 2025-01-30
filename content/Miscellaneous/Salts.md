@@ -1,0 +1,1 @@
+In Kandoria, when a person dies and their body decays, their material corpse disintegrates over time into salts; rose-colored, tiny crystals, about 1/10 of an inch in length.
