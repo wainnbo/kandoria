@@ -1,0 +1,3 @@
+In Kandoria, to reference all human-like beings (without explicitly intending humans, as in, the race), the word "mortals" is used. For clarity, all playable character races (humans, goliaths, tabaxi, dwarves, etc.) fall into the "mortalkind" designation. If the word "humankind" is used, that explicitly only designates humans, as in the playable race.
+
+Note: This does NOT include immortals. Gods, for example, do not belong to mortalkind.
