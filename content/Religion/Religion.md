@@ -16,7 +16,6 @@ In this section you can find anything pertaining to the religions of Kandoria. A
 - ### [[Hounds of Chaos]]
 - ### [[Jarral, the Original Cleric]]
 - ### [[Lost Gods]]
-- ### [[Scydias, Amalgam Lord]]
 ## Religious Groups
 - ### [[Ivor March]]
 - ### [[Originism]]
