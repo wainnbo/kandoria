@@ -23,6 +23,6 @@ Articles that may be helpful for character creation for *Rise of the Amalgam Lor
 
 The Following are articles that can help build religious characters in the campaign. Still helpful to know, but less important for non-clerics
 * [[Originism]]
-* [[Mikkeron, the Progenitor God]]
+* [[Mikkeron, the Progenitor God]] (WIP, but gets a lot of context from other articles here)
 * [[Jarral, the Original Cleric]]
 * [[The Epic of Creation]]
