@@ -1,2 +1,3 @@
 (Clair-ooo)
-bloodborne/gothic french inspired
+
+Located in the country of Fijor.
